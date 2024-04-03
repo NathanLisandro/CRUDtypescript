@@ -13,7 +13,7 @@ Este é um aplicativo para gerenciamento de tarefas desenvolvido em TypeScript c
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/NathanLisandro/CRUDtypescript.git
 
 
 ## Uso
